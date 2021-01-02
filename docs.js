@@ -64,7 +64,7 @@ const authors = [
   },
 ];
 
-// Implémentatiojn des méthodes définies dans le typeDefs
+// Implémentation des méthodes définies dans le typeDefs
 const resolvers = {
   Query: {
     getBooks: () => books,
